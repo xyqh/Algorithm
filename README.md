@@ -29,7 +29,4 @@
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
 |1|[67. 二进制求和](https://github.com/xyqh/Algorithm/issues/1)|`位运算`|2024-02-29T07:14:25Z|
-|11|[543. 二叉树的直径](https://github.com/Doragd/Algorithm/issues/11)|`二叉树` `递归`|2024-01-01T09:05:12Z|
-|6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
-|3|[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
 |2|[190. 颠倒二进制位](https://github.com/xyqh/Algorithm/issues/2)|`位运算`|2024-02-29T09:22:11Z|
