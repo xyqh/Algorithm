@@ -28,6 +28,6 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|3|[191. 位1的个数](https://github.com/xyqh/Algorithm/issues/3)||2024-03-05T06:44:28Z|
+|3|[191. 位1的个数](https://github.com/xyqh/Algorithm/issues/3)|`位运算`|2024-03-05T06:44:28Z|
 |1|[67. 二进制求和](https://github.com/xyqh/Algorithm/issues/1)|`位运算`|2024-02-29T07:14:25Z|
 |2|[190. 颠倒二进制位](https://github.com/xyqh/Algorithm/issues/2)|`位运算`|2024-02-29T09:22:11Z|
