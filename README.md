@@ -29,7 +29,7 @@
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
 |7|[66. 加一](https://github.com/xyqh/Algorithm/issues/7)|`模拟` `数学`|2024-03-21T15:26:35Z|
-|6|[9. 回文数](https://github.com/xyqh/Algorithm/issues/6)|`位运算`|2024-03-21T15:04:53Z|
+|6|[9. 回文数](https://github.com/xyqh/Algorithm/issues/6)|`数学`|2024-03-21T15:04:53Z|
 |5|[137. 只出现一次的数字 II](https://github.com/xyqh/Algorithm/issues/5)|`位运算` `真值表`|2024-03-05T07:43:47Z|
 |4|[136. 只出现一次的数字](https://github.com/xyqh/Algorithm/issues/4)|`位运算`|2024-03-05T06:54:33Z|
 |3|[191. 位1的个数](https://github.com/xyqh/Algorithm/issues/3)|`位运算`|2024-03-05T06:44:28Z|
